@@ -1,6 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 //Aleks Barahona Hernandez #AL02891318
+//18/10/23
 public class main {
     public static void main(String[] args) {
         //creacion de dos objetos perro y un objeto Scanner

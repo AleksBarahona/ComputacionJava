@@ -1,4 +1,5 @@
 //Aleks Barahona Hernandez #AL02891318
+//18/10/23
 public class Perro {
     //variables(atributos)
     private String nombre;
